@@ -58,9 +58,9 @@
             this.CountDisp.AutoSize = true;
             this.CountDisp.Location = new System.Drawing.Point(120, 55);
             this.CountDisp.Name = "CountDisp";
-            this.CountDisp.Size = new System.Drawing.Size(41, 13);
+            this.CountDisp.Size = new System.Drawing.Size(47, 13);
             this.CountDisp.TabIndex = 3;
-            this.CountDisp.Text = "Count: ";
+            this.CountDisp.Text = "Count: 0";
             // 
             // Form1
             // 
