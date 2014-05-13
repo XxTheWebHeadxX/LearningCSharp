@@ -11,6 +11,9 @@ namespace WindowsFormsApplication1
 {
     public partial class Form1 : Form
     {
+        int count = 0;
+        String counter = "Count: ";
+        
         public Form1()
         {
             InitializeComponent();
@@ -18,12 +21,14 @@ namespace WindowsFormsApplication1
 
         private void Count_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("you clicked the Count Button");
+            count += 1;
+            CountDisp.Text = counter + count;
         }
 
         private void Reset_Click_1(object sender, EventArgs e)
         {
-            MessageBox.Show("you clicked the Reset Button");
+            count = 0;
+            CountDisp.Text = counter + count;
         }
 
     }
