@@ -1,0 +1,6 @@
+C:\Users\XxTheWebHeadxX\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\XxTheWebHeadxX\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\XxTheWebHeadxX\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\XxTheWebHeadxX\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\LearningCSharp.csproj.GenerateResource.Cache
+C:\Users\XxTheWebHeadxX\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\XxTheWebHeadxX\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
