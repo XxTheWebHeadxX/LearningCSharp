@@ -28,19 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.CountDisp = new System.Windows.Forms.TextBox();
             this.Count = new System.Windows.Forms.Button();
             this.Reset = new System.Windows.Forms.Button();
+            this.CountDisp = new System.Windows.Forms.Label();
             this.SuspendLayout();
-            // 
-            // CountDisp
-            // 
-            this.CountDisp.Location = new System.Drawing.Point(88, 74);
-            this.CountDisp.Name = "CountDisp";
-            this.CountDisp.Size = new System.Drawing.Size(78, 20);
-            this.CountDisp.TabIndex = 0;
-            this.CountDisp.Text = "Counter: 0";
-            this.CountDisp.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // Count
             // 
@@ -50,6 +41,7 @@
             this.Count.TabIndex = 1;
             this.Count.Text = "Count";
             this.Count.UseVisualStyleBackColor = true;
+            this.Count.Click += new System.EventHandler(this.Count_Click);
             // 
             // Reset
             // 
@@ -59,15 +51,25 @@
             this.Reset.TabIndex = 2;
             this.Reset.Text = "Reset";
             this.Reset.UseVisualStyleBackColor = true;
+            this.Reset.Click += new System.EventHandler(this.Reset_Click_1);
+            // 
+            // CountDisp
+            // 
+            this.CountDisp.AutoSize = true;
+            this.CountDisp.Location = new System.Drawing.Point(120, 55);
+            this.CountDisp.Name = "CountDisp";
+            this.CountDisp.Size = new System.Drawing.Size(41, 13);
+            this.CountDisp.TabIndex = 3;
+            this.CountDisp.Text = "Count: ";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Controls.Add(this.CountDisp);
             this.Controls.Add(this.Reset);
             this.Controls.Add(this.Count);
-            this.Controls.Add(this.CountDisp);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -77,9 +79,9 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox CountDisp;
         private System.Windows.Forms.Button Count;
         private System.Windows.Forms.Button Reset;
+        private System.Windows.Forms.Label CountDisp;
     }
 }
 

@@ -4,3 +4,10 @@ C:\Users\XxTheWebHeadxX\AppData\Local\Temporary Projects\WindowsFormsApplication
 C:\Users\XxTheWebHeadxX\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\LearningCSharp.csproj.GenerateResource.Cache
 C:\Users\XxTheWebHeadxX\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 C:\Users\XxTheWebHeadxX\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\XxTheWebHeadxX\Documents\GitHub\LearningCSharp\bin\Debug\LearningCSharp.exe
+C:\Users\XxTheWebHeadxX\Documents\GitHub\LearningCSharp\bin\Debug\LearningCSharp.pdb
+C:\Users\XxTheWebHeadxX\Documents\GitHub\LearningCSharp\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\XxTheWebHeadxX\Documents\GitHub\LearningCSharp\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\XxTheWebHeadxX\Documents\GitHub\LearningCSharp\obj\x86\Debug\LearningCSharp.csproj.GenerateResource.Cache
+C:\Users\XxTheWebHeadxX\Documents\GitHub\LearningCSharp\obj\x86\Debug\LearningCSharp.exe
+C:\Users\XxTheWebHeadxX\Documents\GitHub\LearningCSharp\obj\x86\Debug\LearningCSharp.pdb

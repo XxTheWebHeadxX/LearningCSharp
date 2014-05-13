@@ -16,9 +16,15 @@ namespace WindowsFormsApplication1
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void Count_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("you clicked the Count Button");
         }
+
+        private void Reset_Click_1(object sender, EventArgs e)
+        {
+            MessageBox.Show("you clicked the Reset Button");
+        }
+
     }
 }
